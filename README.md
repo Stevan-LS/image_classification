@@ -45,3 +45,5 @@ To reproduce the results:
 - NumPy
 - Matplotlib
 - Pickle (for reading CIFAR-10 data)
+
+Stevan Le Stanc
